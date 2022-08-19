@@ -1,0 +1,2 @@
+# arista-shx.xyz
+hardware
